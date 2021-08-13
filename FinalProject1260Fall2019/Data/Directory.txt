@@ -1,0 +1,6 @@
+People
+1001|Bowles|Rodney|L|05/04/1990|MALE|HWY 75|Blountville|AL|37617|OTHER|4238990005|OTHER|bowlesr@etsu.edu|11/09/2019|rodney.jpg
+1002|Smith|John|y|06/04/1975|MALE|Market St|Johnson City|AL|37601|OTHER|4232321444|OTHER|bowlesr@etsu.edu|08/12/2005|smith.jpg
+1004|Lisa|Zoey|N|01/06/1992|MALE|Somewhere |Some city |AL|88566|OTHER|2315668854|OTHER|bowlesr@etsu.edu|03/03/2003|lisa.jpg
+1005|LisaHall|Prof|T|01/06/1992|MALE|Somewhere |Some city |HI|02155|OTHER|1265556599|OTHER|bowlesr@etsu.edu|03/03/2003|noPic.png
+1001|Bowles|Joey|D|05/04/1990|MALE|105 Milligan Ave|Johnson City|TN|37601|OTHER|4238990005|OTHER|bowlesr@etsu.edu|11/09/2019|noPic.png
